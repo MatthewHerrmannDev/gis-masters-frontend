@@ -1,0 +1,9 @@
+#queryTable {
+  table-layout: fixed;
+  width: 300px;
+  text-align: left;
+}
+
+.querySelect {
+  width: 100%;
+}
