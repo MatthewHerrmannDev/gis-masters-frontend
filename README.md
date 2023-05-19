@@ -5,4 +5,5 @@
   <li>Follow instructions at: https://github.com/MatthewHerrmannDev/gis-masters-backend</li>
   <li>Type 'npm install' to install dependencies</li>
   <li>Type 'npm run dev' to run</li>
+  <li>Go to 'http://localhost:{port}/?organizationID={id}' to access webpage</li>
 </ol>
